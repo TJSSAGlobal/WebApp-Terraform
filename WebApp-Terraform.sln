@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp-Terraform", "WebApp-Terraform\WebApp-Terraform.csproj", "{B24A6296-586B-44EE-9B4F-EA012368F728}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B24A6296-586B-44EE-9B4F-EA012368F728}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B24A6296-586B-44EE-9B4F-EA012368F728}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B24A6296-586B-44EE-9B4F-EA012368F728}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B24A6296-586B-44EE-9B4F-EA012368F728}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B18D13A-ABAB-4A3F-AB00-092F16C2979A}
+	EndGlobalSection
+EndGlobal
